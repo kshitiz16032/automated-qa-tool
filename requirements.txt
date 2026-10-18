@@ -1,0 +1,5 @@
+google-generativeai
+google-cloud-storage
+pytest
+pytest-json-report
+python-dotenv
